@@ -25,3 +25,4 @@ What's this Repo about?  Julia and caco exploring the basics of Computer Science
 It's already downloaded, You just had to set your .zshrc and .bash_profile, then test by executing java --version.
 2. On JDK is working, open the .java file in VS code and hit run, see if you get it to print the date
 3. After that modify your code, to calculate the age correctly taking into account day and month
+4. Finish Addition class (Adriana's)

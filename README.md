@@ -51,6 +51,7 @@ It's already downloaded, You just had to set your .zshrc and .bash_profile, then
 2. ~On JDK is working, open the .java file in VS code and hit run, see if you get it to print the date~
 3. After that modify your code, to calculate the age correctly taking into account day and month
 4. Finish Addition class (Adriana's)
-5. Write number sequences (1..100), even(1-100), odd(1-100), divisibleby5(1-100), comma delimited, pipe delimited, to 500?
-6. Fibonacci sequence
-7. Objects introduction?
+5. Write a Modulus function
+6. Write number sequences (1..100), even(1-100), odd(1-100), divisibleby5(1-100), comma delimited, pipe delimited, to 500?
+7. Fibonacci sequence
+8. Objects introduction?

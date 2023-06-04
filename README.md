@@ -54,9 +54,9 @@ It's already downloaded, You just had to set your .zshrc and .bash_profile, then
 5. ~Write a Modulus function~
 6. ~!Write number sequences (1..100), even(1-100), odd(1-100), divisibleby5(1-100), comma delimited, pipe delimited, to 500?~
 7. ~Fibonacci sequence~
-8. Concatenate two strings
+8. ~Concatenate two strings~
 9. Compare two strings, are they equal?  Case insensitive.
-10. Take string, print length, Character a position X, 
+10. ~Take string, print length, Character a position X, ~
 11. find string 1 in string 2
 12. Palindrome check
 13. Objects introduction?

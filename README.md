@@ -52,8 +52,8 @@ It's already downloaded, You just had to set your .zshrc and .bash_profile, then
 3. ~After that modify your code, to calculate the age correctly taking into account day and month~
 4. ~Finish Addition class (Adriana's)~
 5. ~Write a Modulus function~
-6. Write number sequences (1..100), even(1-100), odd(1-100), divisibleby5(1-100), comma delimited, pipe delimited, to 500?
-7. Fibonacci sequence
+6. ~!Write number sequences (1..100), even(1-100), odd(1-100), divisibleby5(1-100), comma delimited, pipe delimited, to 500?~
+7. ~Fibonacci sequence~
 8. Concatenate two strings
 9. Compare two strings, are they equal?  Case insensitive.
 10. Take string, print length, Character a position X, 
